@@ -5,6 +5,11 @@
 
 
  /* Compiled dark classes from Tailwind */
+ .employ-style{
+  border-top-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+ }
+
  .dark .dark\:divide-gray-700 > :not([hidden]) ~ :not([hidden]) {
   border-color: rgba(55, 65, 81);
 }
